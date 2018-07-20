@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AudioRecordButton</string>
+
+    <string name="audio_record_text">按住说话</string>
+    <string name="voice_need_sdcard_support">SD卡不存在</string>
+    <string name="move_up_to_cancel">手指上滑，取消发送</string>
+    <string name="release_to_cancel">松开手指，取消发送</string>
+    <string name="send_voice_need_sdcard_support">发送语音需要sdcard支持</string>
+    <string name="the_recording_time_too_long">最长刻录180秒，剩余10秒</string>
+    <string name="recording_without_permission">无录音权限</string>
+    <string name="the_recording_time_is_too_short">录音时间太短</string>
+</resources>
